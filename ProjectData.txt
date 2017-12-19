@@ -1,0 +1,16 @@
+2	AAA	Ad Astra Academy	Funded	10000	Wladimir Lyra	wlyra@csun.edu
+3	AHLC	Astronomy for Himalayan Livelihood Creation	Funded	14000	Sonal Asgotraa	sonal@ghe.co.in
+1	ArAS SfA-3	Third ArAS School for Astrophysics	Funded	6000	Raid M Suleiman	rsuleiman@cfa.harvard.edu
+2	Astro camp	Girls Astronomy Camp Abuja, Nigeria	Funded	3691	OLAYINKA FAGBEMIRO	yinkaojay@gmail.com
+3	Astro4All	Astronomy for all: construction of a 3D planetarium with low cost materials for the inclusion of the visually impaired	Funded	4500	Adriana Cardinot	adriana.cardinot@nuigalway.ie
+2	AstroBVI	AstroBVI: An Astronomical Educational Kit for the Blind and Vision Impaired (BVI) Community in South America	Funded	7500	Maria Argudo-Fernández	maria.argudo@uantof.cl
+3	ASTROFEST	Astronomy Festivalitos	Funded	7000	Diana Rojas	presidencia@asasac.com
+2	ATV	A Touch of Venus	Funded	7500	Amelia Ortiz-Gil	amelia.ortiz@uv.es
+1	DASN	Developing Astronomical Skills in Nepal	Funded	5000	Suresh Bhattarai	bhattarai.suresh@gmail.com
+1	FORTUTORS	Formation of Tutors for Astrolab	Funded	7000	Michèle Gerbaldi	gerbaldi@iap.fr
+1	KAS2018	Kathmandu Astrophysics School 2018	Funded	7000	Clare Kenyon	clare.kenyon@unimelb.edu.au
+3	LIA	LAMBA INDIGENOUS ASTRONOMY	Funded	4500	Prospery Simpemba	pcs200800@gmail.com
+1	RA_TNT2018	"Summer Workshop on Radio Astrophysics, Tonantzintla 2018"	Funded	6000	Abraham Luna Castellanos	aluna@inaoep.mx
+2	SN-CV	Starry Nights in Cape Verde - Astronomy reaches out West African Islands	Funded	10000	Ivanilda Maria dos Santos Cabral Semedo	ivanilda.cabral@docente.unicv.edu.cv
+1	SWCA-RSSW	South West and Central Asian Regional Summer School and Workshop	Funded	5000	Sona Farmanyan	sona.farmanyan@mail.ru
+3	SYS_Sounds	SYSTEM Sounds: Bringing the Music of the Spheres Down to Earth	Funded	7969.5	Matt Russo	mrusso@cita.utoronto.ca
